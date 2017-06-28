@@ -1,2 +1,2 @@
 service:
-  name: spring cloud service2 dev--bus configServer
+  name: bus configServer
